@@ -16,7 +16,13 @@ LinkLens is a desktop linker script visualizer for exploring memory regions, out
 
 ## Screenshots
 
-Application screenshots will be added here in `docs/screenshots/`.
+### Dark theme
+
+![LinkLens in dark theme, showing the linker editor and stacked FLASH/RAM memory sections](docs/screenshots/dark.png)
+
+### Light theme
+
+![LinkLens in light theme, showing the linker editor and stacked FLASH/RAM memory sections](docs/screenshots/light.png)
 
 ## Requirements
 
